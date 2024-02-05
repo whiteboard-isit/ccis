@@ -4280,7 +4280,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media (min-width: 1200px) and (max-width: 1399px) {
+@media (min-width: 1200px) and (max-width: 1499px) {
   .header .header-menu .menu__nav a {
     padding: 6px 6px;
   }
